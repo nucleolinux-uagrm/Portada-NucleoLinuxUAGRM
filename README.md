@@ -3,9 +3,7 @@
 Concurso Portada-Libre
 
 
-
-
-REGLAS PARA PARTICIPAR:
+# REGLAS PARA PARTICIPAR:
 
 - Ser de la comunidad Nucleo Linux UAGRM
 
@@ -17,10 +15,10 @@ REGLAS PARA PARTICIPAR:
 
 - Solo se puede enviar una portada por persona
 
+#
 
 
-
-#COMO ENVIAR TU PORTADA
+# COMO ENVIAR TU PORTADA:
 
 enviar comprimido ZIP
 
@@ -32,7 +30,7 @@ Portada en formato .svg
 
 #
 
-#PREMIOS A LOS GANADORES
+# PREMIOS A LOS GANADORES:
 
 
 1er Lugar
