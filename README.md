@@ -20,7 +20,7 @@ REGLAS PARA PARTICIPAR:
 
 
 
-#COMO ENVIAR TU PORTADA:
+#COMO ENVIAR TU PORTADA
 
 enviar comprimido ZIP
 
@@ -30,11 +30,9 @@ Carpeta con tu Nombre
 
 Portada en formato .svg
 
+#
 
-
-
-
-Premio a los 2 primeros Ganadores:
+#PREMIOS A LOS GANADORES
 
 
 1er Lugar
@@ -44,11 +42,6 @@ Premio a los 2 primeros Ganadores:
 	1 Poster de Flisol ROCK + 1 Poster a eleccion
   
   
-
-
-
-
-
 
 Fecha de inicio: 11 / 07 / 2019   11 : 00 am
 
