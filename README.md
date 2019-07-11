@@ -29,7 +29,7 @@ enviar comprimido ZIP
 
 //dentro del comprimido debe  estar lo siguiente
 
-Carpeta con tu Nombre
+Directorio con tu Nombre
 
 Portada en formato .svg
 
