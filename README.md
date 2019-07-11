@@ -28,6 +28,9 @@ Carpeta con tu Nombre
 
 Portada en formato .svg
 
+
+Correo : nucleolinux.uagrm@gmail.com
+
 #
 
 # PREMIOS A LOS GANADORES:
