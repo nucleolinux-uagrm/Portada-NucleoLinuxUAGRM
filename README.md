@@ -9,6 +9,8 @@ Concurso Portada-Libre
 
 - Estudiante de la UAGRM
 
+- La resolucion de la image debe ser las estandares de portada de facebook
+
 - Utilizar Herramientas de Software Libre para realizar la foto de portada
 
 - No se tomara en cuenta si la portada fue realizado con software privativo (es decir programas como Photoshop,Adobe Photoshop Lightroom y derivados..)
