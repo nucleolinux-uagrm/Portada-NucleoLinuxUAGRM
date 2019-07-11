@@ -46,9 +46,3 @@ Fecha de inicio: 11 / 07 / 2019   11 : 00 am
 Fecha Limite: 18 / 07 / 2019  11 : 00 am
 
 
-
-
-
-
-
-Saludos.
