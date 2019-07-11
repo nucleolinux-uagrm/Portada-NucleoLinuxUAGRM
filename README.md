@@ -17,6 +17,11 @@ Concurso Portada-Libre
 
 #
 
+# HERRAMIENTA PARA LA PORTADA
+
+ Inkscape
+ 
+#
 
 # COMO ENVIAR TU PORTADA:
 
