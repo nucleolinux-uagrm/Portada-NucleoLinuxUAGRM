@@ -19,7 +19,7 @@ Concurso Portada-Libre
 
 #
 
-# HERRAMIENTA PARA LA PORTADA
+# HERRAMIENTA PARA LA PORTADA:
 
  Inkscape
  
